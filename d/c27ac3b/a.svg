@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 512 512">
+<rect x="0" y="0" width="512" height="512" fill="#061A7A"/>
+<path fill="#FFFFFF" fill-rule="evenodd" d="M305 270 A115 150 0 1 1 75 270 A115 150 0 1 1 305 270 Z M260 270 A70 105 0 1 0 120 270 A70 105 0 1 0 260 270 Z"/>
+<rect x="285" y="150" width="64" height="280" rx="28" ry="28" fill="#FFFFFF"/>
+<path fill="#FFFFFF" d="M318 150 H378 C438 150 458 190 458 230 C458 276 424 304 382 310 H349 V262 H380 C398 262 410 252 410 232 C410 214 398 204 380 204 H349 V150 Z"/>
+<path fill="#FFFFFF" d="M340 308 L388 308 L472 400 C484 414 476 434 458 436 L440 438 C432 439 425 436 420 431 L336 339 Z"/>
+</svg>
